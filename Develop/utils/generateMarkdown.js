@@ -25,7 +25,7 @@ function generateMarkdown(data) {
 
   ## Collaborators
 
-  ${data.contibuters}
+  ${data.contriputors}
 
   ## Badges
   This project falls under the license:
