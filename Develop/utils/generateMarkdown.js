@@ -19,7 +19,7 @@ function generateMarkdown(data) {
 
   ${data.installation}
 
-  ##Usage
+  ## Usage
 
   ${data.usage}
 
@@ -31,7 +31,7 @@ function generateMarkdown(data) {
   This project falls under the license:
   ![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)
 
-  ##Questions
+  ## Questions
   *[Github] (https://github.com/${data.github})
   * For any additioanl questions, reach me at my [email] (${data.email})
   
