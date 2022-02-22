@@ -23,9 +23,6 @@
 
   Myself
 
-  ## Badges
-  This project falls under the license:
-  ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
   ## Questions
   *[Github] (https://github.com/pshertzi)
